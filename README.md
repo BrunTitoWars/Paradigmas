@@ -1,1 +1,1 @@
-# Paradigmas
+# Programação Funcional
