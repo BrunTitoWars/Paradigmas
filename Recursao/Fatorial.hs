@@ -8,4 +8,4 @@ main :: IO ()
 main = do
     hSetEncoding stdout utf8  -- Força a codificação UTF-8 para a saída
     putStrLn "Fatorial de 5:"
-    print (fatorial 5)    -- Resultado esperado: 120
+    print (fatorial 5)
